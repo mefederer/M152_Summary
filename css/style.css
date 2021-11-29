@@ -1,0 +1,13 @@
+h3, h1 {
+   font-family: 'AmaticSCBold';
+   font-weight: bold;
+   font-style: normal;
+}
+.galerie img{
+  width: 100%;
+  filter: grayscale(100%);
+}
+.galerie img:hover{
+  width: 100%;
+  filter: none;
+}
